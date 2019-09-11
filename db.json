@@ -1,9 +1,9 @@
 {
   "console": [
-    { "id": 1, "titulo": "PS4" },
-    { "id": 2, "titulo": "Nintendo Switch" },
-    { "id": 3, "titulo": "PC" },
-    { "id": 4, "titulo": "Xbox" }
+    { "id": 1, "titulo": "PS4", "key" : "ps4" },
+    { "id": 2, "titulo": "Nintendo Switch", "key" : "nintendoswitch" },
+    { "id": 3, "titulo": "PC", "key" : "pc" },
+    { "id": 4, "titulo": "Xbox", "key" : "xbox" }
   ],
   "game": [
     { "id": 1, "nome": "Tomb Raider", "consoles": [{"id": 1, "titulo": "PS4"}, {"id": 2, "titulo": "Nintendo Switch"}, {"id": 3, "titulo": "PC"}, {"id": 4, "titulo": "Xbox"}]},
