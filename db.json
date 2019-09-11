@@ -10,7 +10,6 @@
     { "id": 2, "nome": "Mario Odyssey", "key" : "marioodyssey", "consoles": [{"id": 2, "titulo": "Nintendo Switch", "key" : "nintendoswitch"}]},
     { "id": 3, "nome": "The Last of Us", "key" : "thelastofus", "consoles": [{"id": 1, "titulo": "PS4", "key" : "ps4"}]},
     { "id": 4, "nome": "Exclusivo de PC", "key" : "exclusivopc", "consoles": [{"id": 3, "titulo": "PC", "key" : "pc"}]},
-    { "id": 5, "nome": "Gears of War", "key" : "gearsofwar", "consoles": [{"id": 4, "titulo": "Xbox", "key" : "xbox"}]},
-    { "id": 6, "nome": "God of War", "key" : "godofwar", "consoles": [{"id": 1, "titulo": "PS4", "key" : "ps4"}]}
+    { "id": 5, "nome": "Gears of War", "key" : "gearsofwar", "consoles": [{"id": 4, "titulo": "Xbox", "key" : "xbox"}]}
   ]
 }
